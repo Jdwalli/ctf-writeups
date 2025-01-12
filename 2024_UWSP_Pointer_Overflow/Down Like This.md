@@ -1,6 +1,7 @@
 # Down Like This
 OSINT, 300 points
 
+## Description
 You ever look around at the things you see every day, and think about how what is mundane for you would be novel and interesting for others? Take the following image, for example.
 
 ![Image](./images/OSINT300-2.jpg)
