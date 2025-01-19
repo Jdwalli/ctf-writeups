@@ -13,6 +13,6 @@ Convert each word in the phrase to leetspeak and insert it into the flag format:
 poctf{uwsp_7h3_ _ _ }
 
 ## Solution:
-Used a LLM! 
+Used a LLM to solve this for me and give me the solution: **The Road Not Taken**
 
 The flag ``poctf{uwsp_7h3_r04d_n07_74k3n}``
